@@ -1,0 +1,72 @@
+Melon Discord Bot - Terms of Service
+Last Updated: June 30, 2025
+
+Welcome to Melon! These Terms of Service ("Terms") govern your use of the Melon Discord bot ("Melon," "the Bot," "we," "us," or "our"). By adding Melon to your Discord server or interacting with it in any way, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use Melon.
+
+1. Acceptance of Terms
+By using Melon, you acknowledge that you have read, understood, and agree to be bound by these Terms, as well as our Privacy Policy. We reserve the right to update or modify these Terms at any time without prior notice. Your continued use of Melon after any such changes constitutes your acceptance of the new Terms.
+
+2. Description of Service
+Melon is a multi-purpose Discord bot offering a range of functionalities, including but not limited to:
+
+Moderation: Tools to help server administrators manage their communities.
+
+Games: Interactive games and entertainment features.
+
+Rating Systems: Features for users to rate various things within the server context.
+
+General Utilities: Other miscellaneous features designed to enhance the Discord experience.
+
+Melon's features may be updated, changed, or discontinued at our discretion.
+
+3. User Obligations and Conduct
+By using Melon, you agree to:
+
+Use Melon in compliance with all applicable laws and regulations.
+
+Comply with Discord's Terms of Service and Community Guidelines.
+
+Not use Melon for any unlawful, harmful, or malicious purposes.
+
+Not attempt to disrupt, damage, or gain unauthorized access to Melon's infrastructure or data.
+
+Not use Melon to spam, harass, or abuse other users.
+
+Not use Melon to promote or engage in illegal activities.
+
+4. Prohibited Conduct
+The following actions are strictly prohibited:
+
+Reverse Engineering: Attempting to decompile, reverse engineer, or otherwise discover the source code of Melon.
+
+Unauthorized Access: Gaining or attempting to gain unauthorized access to any part of Melon's systems or data.
+
+Exploitation: Exploiting any bugs or vulnerabilities in Melon for personal gain or to disrupt service.
+
+Malicious Use: Using Melon to distribute malware, viruses, or any other harmful code.
+
+Impersonation: Impersonating Melon, its developers, or any other entity.
+
+5. Intellectual Property
+Melon, its code, design, and all associated intellectual property are owned by its developers. You may not copy, modify, distribute, sell, or lease any part of Melon without explicit written permission.
+
+6. Disclaimer of Warranties
+Melon is provided "as is" and "as available" without any warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, or non-infringement. We do not warrant that Melon will be uninterrupted, error-free, secure, or free from viruses or other harmful components. Your use of Melon is at your sole risk.
+
+7. Limitation of Liability
+To the fullest extent permitted by law, in no event shall Melon's developers be liable for any direct, indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use Melon; (ii) any conduct or content of any third party on Melon; (iii) any content obtained from Melon; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+
+8. Indemnification
+You agree to defend, indemnify, and hold harmless Melon's developers and their respective officers, directors, employees, and agents from and against any and all claims, damages, obligations, losses, liabilities, costs, or debt, and expenses (including but not limited to attorney's fees) arising from: (i) your use of and access to Melon; (ii) your violation of any term of these Terms; (iii) your violation of any third-party right, including without limitation any copyright, property, or privacy right; or (iv) any claim that your use of Melon caused damage to a third party.
+
+9. Termination
+We may terminate or suspend your access to Melon immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms. Upon termination, your right to use Melon will immediately cease.
+
+10. Governing Law
+These Terms shall be governed and construed in accordance with the laws of the Netherlands, without regard to its conflict of law provisions.
+
+11. Severability
+If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect.
+
+12. Contact Information
+If you have any questions about these Terms, please contact us through our official Discord server or support channels.

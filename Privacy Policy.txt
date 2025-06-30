@@ -1,0 +1,81 @@
+Melon Discord Bot - Privacy Policy
+Last Updated: June 30, 2025
+
+This Privacy Policy describes how the Melon Discord bot ("Melon," "the Bot," "we," "us," or "our") collects, uses, and discloses information when you use Melon. By adding Melon to your Discord server or interacting with it, you agree to the collection and use of information in accordance with this policy.
+
+1. Information We Collect
+Melon is designed to operate with minimal data collection necessary for its functionality. We collect the following types of information:
+
+Discord User IDs: We collect and store your unique Discord User ID when you interact with Melon (e.g., using commands, participating in games, or being affected by moderation actions). This is necessary to identify users for features like game scores, moderation logs, and personalized settings.
+
+Discord Server IDs (Guild IDs): We collect and store the unique ID of any Discord server (guild) where Melon is present. This is necessary to manage server-specific configurations, moderation settings, and game data.
+
+Channel IDs: In some cases, for specific features (e.g., setting a default channel for game announcements or moderation logs), we may store specific Discord Channel IDs.
+
+Limited Message Content (Ephemeral): For certain functionalities (e.g., moderation commands requiring us to read a message to delete it, or game commands where your input is part of the game logic), Melon may temporarily process message content. This content is processed in real-time and is NOT stored persistently unless explicitly required for a specific, opt-in feature (e.g., a custom command response you configure). We do not log or store general chat messages.
+
+Feature-Specific Data:
+
+Game Data: For games, this might include scores, progress, or other game-related statistics associated with your User ID.
+
+Rating Data: If you use rating features, we will store the ratings you submit, linked to your User ID and the item being rated.
+
+Moderation Logs: If your server utilizes Melon's moderation features, certain moderation actions (e.g., bans, kicks, warnings) may be logged by Melon, including the User ID of the moderator and the target user, and a reason. This data is stored per server.
+
+2. How We Use Your Information
+The information we collect is used solely for the purpose of providing and improving Melon's functionalities, including:
+
+Operating and maintaining Melon: Ensuring the bot functions correctly and reliably.
+
+Providing core features: Enabling moderation, games, rating systems, and other utilities.
+
+Personalizing user experience: Storing game scores, settings, or preferences.
+
+Troubleshooting and support: Diagnosing and resolving issues.
+
+Improving Melon: Analyzing usage patterns to enhance features and performance.
+
+3. Data Storage and Security
+Melon's data is stored on secure databases. We implement reasonable technical and organizational measures to protect your information from unauthorized access, alteration, disclosure, or destruction.
+
+While we strive to protect your personal data, no method of transmission over the Internet or method of electronic storage is 100% secure. Therefore, we cannot guarantee its absolute security.
+
+4. Data Retention
+We retain collected data for as long as necessary to provide Melon's services and for legitimate operational purposes, or until a server removes Melon.
+
+Upon bot removal: If Melon is removed from a Discord server, all data associated with that specific server (including server-specific moderation logs, game data, and channel IDs) will be deleted within a reasonable timeframe, typically within 30 days.
+
+User Data: User IDs and associated game/rating data will be retained as long as the user continues to interact with Melon across any server, or until a specific deletion request is made.
+
+5. Sharing Your Information
+We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. We may share information in the following limited circumstances:
+
+With your consent: If you explicitly authorize us to share certain information.
+
+For legal reasons: If required by law or in response to valid requests by public authorities (e.g., a court order).
+
+To protect our rights: To enforce our Terms of Service or protect our rights, property, or safety, or the rights, property, or safety of others.
+
+6. Your Data Rights
+As a user, you have certain rights regarding your data:
+
+Access: You can request access to the data Melon holds about your User ID.
+
+Rectification: You can request correction of inaccurate data.
+
+Erasure (Right to be Forgotten): You can request the deletion of your personal data. Please note that deleting certain data may impact Melon's functionality for you (e.g., game scores).
+
+Restriction of Processing: You can request that we limit the way we use your data.
+
+Data Portability: You can request a copy of your data in a structured, commonly used, and machine-readable format.
+
+To exercise any of these rights, please contact us through our official Discord server or support channels. We will respond to your request within a reasonable timeframe.
+
+7. Children's Privacy
+Melon is not intended for use by children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal data, please contact us. If we become aware that we have collected personal data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+8. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+9. Contact Information
+If you have any questions about this Privacy Policy, please contact us through our official Discord server or support channels.
